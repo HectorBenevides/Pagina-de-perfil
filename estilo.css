@@ -49,7 +49,9 @@ body *{
 }
 
 #profile img {
-   width: 112px;
+   width: 130px;
+   height: 130px;
+   border-radius: 60%;
 }
 
 #profile p {
@@ -151,3 +153,4 @@ ul li a:hover {
 #social-links a:hover {
    background: var(--hightlight-color);
 }
+
